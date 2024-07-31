@@ -21,98 +21,63 @@
   
   <li>C/C++ language projects
     <ul style="list-style-type:square;">
-      <li>NetPBM Image editor: https://github.com/mihneablotiu/ImageEditor</li>
-      <li>Load Balancer using a HashRing: https://github.com/mihneablotiu/LoadBalancer</li>
-      <li>Rope data structure implementation: https://github.com/mihneablotiu/RopeDataStructure</li>
-      <li>Router data plane implementation: https://github.com/mihneablotiu/Router</li>
-      <li>Web client that can communicate with an REST API: https://github.com/mihneablotiu/WEB-Application</li>
-      <li>The implementation of a client-server application that allows you to mange messages: https://github.com/mihneablotiu/Client---Server-application</li>
-      <li>A Map-Reduce Pthread implementation: https://github.com/mihneablotiu/Map-Reduce</li>
-      <li>MPI - Ring Communication Model: https://github.com/mihneablotiu/MPI</li>
-      <li>A matrix multiply serial implementation with optimizations: https://github.com/mihneablotiu/MatrixMultiply</li>
+      <li>Router data plane implementation: https://github.com/StavarLaurentiu/RouterDataPlane</li>
+      <li>Web client that can communicate with an REST API: https://github.com/StavarLaurentiu/WebClientRESTAPI</li>
+      <li>The implementation of a client-server application that allows you to mange messages: https://github.com/StavarLaurentiu/MessageAPP</li>
+      <li>PPM image compresor: https://github.com/StavarLaurentiu/ImageCompressor</li>
+      <li>A set of algorithmic problems solved: https://github.com/StavarLaurentiu/Algorithms</li>
+      <li>Wordle: https://github.com/StavarLaurentiu/Wordle</li>
+      <li>Sudoku App that generates sudoku games and gives the user the ability to solve them: https://github.com/StavarLaurentiu/Sudoku</li>
+      <li>Magic Lane data structure implementation: https://github.com/StavarLaurentiu/MagicLane</li>
+      <li>Graph problem - Implemented Graph data structures from scratch: https://github.com/StavarLaurentiu/GraphProblem</li>
     </ul>
   <br>
   </li>
   
   <li>Java language projects
     <ul style="list-style-type:square;">
-      <li>A Java videos database: https://github.com/mihneablotiu/VideosDatabase</li>
-      <li>A Java Project that shares gifts to the children based on different criteria: https://github.com/mihneablotiu/SantaClausGifts</li>
-      <li>We implemented a Java bot starting from the Halite Java starter package - 2016 project - 4th Place in 2022 Competition: https://github.com/mihneablotiu/HaliteBot---FirstForce</li>
-      <li>A simple Android application that can move a ball on the phone screen taking into consideration the accelerometer information: https://github.com/mihneablotiu/MovingBall---AndroidApp</li>
-      <li>A parallel Replicated Workers model in Java for Orders and Products: https://github.com/mihneablotiu/Orders-Products</li>
+      <li>An IMDB app using Swing and AWT: https://github.com/StavarLaurentiu/IMDB</li>
     </ul>
   <br>
-  </li>
-
-  <li>OpenGL/Computer Graphics Projects
-    <ul style="list-style-type:square;">
-      <li>A Night Skiing game in OpenGL: https://github.com/mihneablotiu/NightSkiing</li>
-      <li>A Car Race game in OpenGL: https://github.com/mihneablotiu/CarRace</li>
-      <li>A Flying Duck game in OpenGL: https://github.com/mihneablotiu/FlyingDuck</li>
-    </ul>
   </li>
   
   <br>
   <li>Functional & Logical programming projects (Racket / Haskell / Prolog)
     <ul style="list-style-type:square;">
-      <li>Primitive Pythagorean triplets generator: https://github.com/mihneablotiu/PPT</li>
-      <li>Different graph representations such as Standard Graph or Algebraic Graph: https://github.com/mihneablotiu/GraphRepresentations</li>
-      <li>Ultimate Tic-Tac-Toe implementation with representation and simple tactics: https://github.com/mihneablotiu/Ultimate-Tic-Tac-Toe</li>
+      <li>Suffix Tree Library in Racket: https://github.com/StavarLaurentiu/SuffixTreeLibrary</li>
+      <li>DSL embedded în Haskell for working with images: https://github.com/StavarLaurentiu/HaskellDSL</li>
+      <li>Bloxorz implementation in Prolog: https://github.com/StavarLaurentiu/Bloxorz</li>
     </ul>
   </li>
 
   <br>
   <li>Python Projects
     <ul style="list-style-type:square;">
-      <li>A parallel marketplace implementation in Python (producer-consumer problem): https://github.com/mihneablotiu/MarketPlace</li>
-    </ul>
-  </li>
-
-  <br>
-  <li>CUDA Projects
-    <ul style="list-style-type:square;">
-      <li>A parallel hashtable implemented in CUDA: https://github.com/mihneablotiu/ParallelHashtable</li>
-    </ul>
-  </li>
-
-  <br>
-  <li>Embedded Projects
-    <ul style="list-style-type:square;">
-      <li>An Arduino-Based Light Follower Robot: https://github.com/mihneablotiu/LightFollowerRobot</li>
+      <li>Credit score calculator for companies, using Streamlit for the GUI, *contributor: https://github.com/mihaescurazvan/Smarthack</li>
+      <li>A small blackjack game: https://github.com/StavarLaurentiu/Blackjack</li>
     </ul>
   </li>
   
   <br>
   <li>Web projects
     <ul style="list-style-type:square;">
-      <li>A simple designed website for the AcadNet Olympics: https://github.com/mihneablotiu/AcadNet-Website</li>
+      <li>A simple designed real estate website: https://github.com/StavarLaurentiu/SSHomes</li>
     </ul>
   </li>
   
   <br>
-  
-  <li>Research projects
-    <ul style="list-style-type:square;">
-      <li>A wide explanation of the travelling salesman problem including two exact solutions and two heuristics for approximate solutions:https://github.com/mihneablotiu/TravellingSalesmanProblem</li>
-      <li>Realization of the logical synthesis of the control unit of a device: https://github.com/mihneablotiu/Pomp-Indiv</li>
-      <li>Design of a control device using a microprogrammed control unit: https://github.com/mihneablotiu/Pomp-Grup</li>
-      <li>A wide comparison between the two digital circuits: 74LS00 and 74HC00: https://github.com/mihneablotiu/DigitalCircuitAnalysis</li>
-    </ul>
-  </li>
   
   <br>
   <li>MATLAB projects
     <ul style="list-style-type:square;">
-      <li>Image-Interpolation-Editor(bilinear, bicubic, nearest - neighbour): https://github.com/mihneablotiu/Image-Interpolation-Editor</li>
+      <li>House pricing predictor using linear, lasso and ridge regresion: https://github.com/StavarLaurentiu/HousePricingPredictor</li>
     </ul>
   </li>
   
   <br>
   <li>Assembly language projects
     <ul style="list-style-type:square;">
-      <li>Assembly32bit-64bit: https://github.com/mihneablotiu/Assembly32bit-64bit</li>
-      <li>AssemblyCacheSimulation: https://github.com/mihneablotiu/AssemblyCacheSimulation</li>
+      <li>Assemblyx86: https://github.com/StavarLaurentiu/x86Assembly</li>
     </ul>
   </li>
 </ul>
