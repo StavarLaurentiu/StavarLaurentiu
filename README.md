@@ -12,10 +12,9 @@
 <ul style="list-style-type:circle;">
   <li>Operating Systems - C Projects
     <ul style="list-style-type:square;">
-      <li>A Linux shell implementation in C using fork-join: https://github.com/mihneablotiu/MiniShell</li>
-      <li>A fork-join pool implementation used to traverse a graph: https://github.com/mihneablotiu/ParallelGraph</li>
-      <li>A memory allocator C implementation using mmap/sbrk: https://github.com/mihneablotiu/MemoryAllocator</li>
-      <li>A mini LIBC - C implementation: https://github.com/mihneablotiu/MiniLibC</li>
+      <li>A fork-join pool implementation used to traverse a graph: https://github.com/StavarLaurentiu/ParallelGraph</li>
+      <li>A memory allocator C implementation using mmap/sbrk: https://github.com/StavarLaurentiu/MemoryAllocator</li>
+      <li>A mini LIBC - C implementation: https://github.com/StavarLaurentiu/Mini-Libc</li>
     </ul>
   <br>
   </li>
