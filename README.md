@@ -23,7 +23,7 @@
     <ul style="list-style-type:square;">
       <li>Router data plane implementation: https://github.com/StavarLaurentiu/RouterDataPlane</li>
       <li>Web client that can communicate with an REST API: https://github.com/StavarLaurentiu/WebClientRESTAPI</li>
-      <li>The implementation of a client-server application that allows you to mange messages: https://github.com/StavarLaurentiu/MessageAPP</li>
+      <li>The implementation of a client-server application that allows you to manage notifications and messages: https://github.com/StavarLaurentiu/MessageAPP</li>
       <li>PPM image compresor: https://github.com/StavarLaurentiu/ImageCompressor</li>
       <li>A set of algorithmic problems solved: https://github.com/StavarLaurentiu/Algorithms</li>
       <li>Wordle: https://github.com/StavarLaurentiu/Wordle</li>
