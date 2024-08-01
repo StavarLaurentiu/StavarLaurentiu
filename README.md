@@ -41,7 +41,6 @@
   <br>
   </li>
   
-  <br>
   <li>Functional & Logical programming projects (Racket / Haskell / Prolog)
     <ul style="list-style-type:square;">
       <li>Suffix Tree Library in Racket: https://github.com/StavarLaurentiu/SuffixTreeLibrary</li>
@@ -64,8 +63,6 @@
       <li>A simple designed real estate website: https://github.com/StavarLaurentiu/SSHomes</li>
     </ul>
   </li>
-  
-  <br>
   
   <br>
   <li>MATLAB projects
