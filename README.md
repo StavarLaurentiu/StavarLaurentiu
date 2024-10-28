@@ -21,6 +21,7 @@
   
   <li>C/C++ language projects
     <ul style="list-style-type:square;">
+      <li>JSON Expression Evaluator: https://github.com/StavarLaurentiu/JSONExpressionParser</li>
       <li>Router data plane implementation: https://github.com/StavarLaurentiu/RouterDataPlane</li>
       <li>Web client that can communicate with an REST API: https://github.com/StavarLaurentiu/WebClientRESTAPI</li>
       <li>The implementation of a client-server application that allows you to manage notifications and messages: https://github.com/StavarLaurentiu/MessageAPP</li>
