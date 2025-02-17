@@ -62,6 +62,7 @@
   <li>Web projects
     <ul style="list-style-type:square;">
       <li>A simple designed real estate website: https://github.com/StavarLaurentiu/SSHomes</li>
+      <li>A fully functional web game built with Angular framework that contains Login/Register, leaderboard, preferences and other features https://github.com/StavarLaurentiu/ufo-battle</li>
     </ul>
   </li>
   
