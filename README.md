@@ -55,6 +55,9 @@
     <ul style="list-style-type:square;">
       <li>Credit score calculator for companies, using Streamlit for the GUI, *contributor: https://github.com/mihaescurazvan/Smarthack</li>
       <li>A small blackjack game: https://github.com/StavarLaurentiu/Blackjack</li>
+      <li>An implementation of the Diffie-Hellman key exchange protocol: https://github.com/StavarLaurentiu/Diffie-Hellman</li>
+      <li>An implementation of the ElGamal cryptosystem: https://github.com/StavarLaurentiu/ElGamal</li>
+      <li>An implementation of the RSA cryptosystem in Python: https://github.com/StavarLaurentiu/RSA</li>
     </ul>
   </li>
   
