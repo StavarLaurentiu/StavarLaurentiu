@@ -57,7 +57,7 @@
       <li>A small blackjack game: https://github.com/StavarLaurentiu/Blackjack</li>
       <li>An implementation of the Diffie-Hellman key exchange protocol: https://github.com/StavarLaurentiu/Diffie-Hellman</li>
       <li>An implementation of the ElGamal cryptosystem: https://github.com/StavarLaurentiu/ElGamal</li>
-      <li>An implementation of the RSA cryptosystem in Python: https://github.com/StavarLaurentiu/RSA</li>
+      <li>An implementation of the RSA cryptosystem: https://github.com/StavarLaurentiu/RSA</li>
     </ul>
   </li>
   
