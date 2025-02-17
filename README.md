@@ -75,6 +75,13 @@
       <li>House pricing predictor using linear, lasso and ridge regresion: https://github.com/StavarLaurentiu/HousePricingPredictor</li>
     </ul>
   </li>
+
+  <br>
+  <li>Bash Scripting projects
+    <ul style="list-style-type:square;">
+      <li>Bash script with multiple functionalities for scheduling the collection and compression of assignments: https://github.com/StavarLaurentiu/AssignmentManager</li>
+    </ul>
+  </li>
   
   <br>
   <li>Assembly language projects
