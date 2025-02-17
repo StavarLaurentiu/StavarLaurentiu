@@ -77,6 +77,16 @@
   </li>
 
   <br>
+  <li>Unity & C#
+    <ul style="list-style-type:square;">
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+
+  <br>
   <li>Bash Scripting projects
     <ul style="list-style-type:square;">
       <li>Bash script with multiple functionalities for scheduling the collection and compression of assignments: https://github.com/StavarLaurentiu/AssignmentManager</li>
@@ -86,7 +96,7 @@
   <br>
   <li>Assembly language projects
     <ul style="list-style-type:square;">
-      <li>Assemblyx86: https://github.com/StavarLaurentiu/x86Assembly</li>
+      <li>Assembly x86: https://github.com/StavarLaurentiu/x86Assembly</li>
     </ul>
   </li>
 </ul>
