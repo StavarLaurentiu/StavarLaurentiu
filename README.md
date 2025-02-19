@@ -79,10 +79,10 @@
   <br>
   <li>Unity & C#
     <ul style="list-style-type:square;">
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>A basic first person 3D shooter. A copy of the original HogansValley game: https://github.com/StavarLaurentiu/HogansValley-v2</li>
+      <li>A simple 2D game imitating the classic "Tomb of the mask": https://github.com/StavarLaurentiu/TombOfTheMask</li>
+      <li>Implemented a 2D navigation mesh using A* searching algorithm: https://github.com/StavarLaurentiu/NavigationMesh</li>
+      <li>Implemented a 4x4 TicTacToe 2D game and an AI that uses MinMax and Alpha-beta pruning algorithms: https://github.com/StavarLaurentiu/TicTacToe</li>
     </ul>
   </li>
 
