@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Stavăr+Laurențiu!;" />
 </h1>
 
-<b><p align="center"> A determined, hard-working and detail-oriented final year Computer Science and Engineering Student with good associate programming hard-skills in Assembly x86, C, C++, C#, Java, Python, FastAPI, HTML, CSS, JavaScript, TypeScript, Angular, React, NodeJS, Racket, Haskell, Prolog and Unity. Outstanding network knowledge such as routing, switching and security technologies and advanced UNIX/Linux operating system knowledge, excellent team player, strong problem-solving abilities and excellent communication skills in English.</p></b>
+<b><p align="center"> A determined, hard-working and detail-oriented final year Computer Science and Engineering Student with good associate programming hard-skills in Assembly x86, C, C++, C#, Java, Python, NumPy, Pandas, Scikit-learn, FastAPI, HTML, CSS, JavaScript, TypeScript, Angular, React, NodeJS, Racket, Haskell, Prolog and Unity. Outstanding network knowledge such as routing, switching and security technologies and advanced UNIX/Linux operating system knowledge, excellent team player, strong problem-solving abilities and excellent communication skills in English.</p></b>
 
 <br/>
 
