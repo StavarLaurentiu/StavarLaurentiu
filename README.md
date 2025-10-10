@@ -66,7 +66,7 @@
     <ul style="list-style-type:square;">
       <li>A simple designed real estate website: https://github.com/StavarLaurentiu/SSHomes</li>
       <li>A fully functional web game built with Angular framework that contains Login/Register, leaderboard, preferences and other features. Also I made a web server using NodeJS: https://github.com/StavarLaurentiu/ufo-battle</li>
-      <li>A modern, full-stack hotel booking application built with Django REST Framework backend and React frontend, featuring dynamic pricing, admin dashboard, and responsive desig: .</li>
+      <li>A modern, full-stack hotel booking application built with Django REST Framework backend and React frontend, featuring dynamic pricing, admin dashboard, and responsive desig: https://github.com/StavarLaurentiu/Reservo</li>
     </ul>
   </li>
   
