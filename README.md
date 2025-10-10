@@ -74,6 +74,7 @@
   <li>MATLAB projects
     <ul style="list-style-type:square;">
       <li>House pricing predictor using linear, lasso and ridge regresion: https://github.com/StavarLaurentiu/HousePricingPredictor</li>
+        <li>Machine learning project that focuses on training and evaluating various classification models on two distinct datasets: air pollution data for predicting AQI (Air Quality Index) levels and PIRvision data for motion detection, with implementations of data preprocessing techniques like SMOTE for handling class imbalance and feature selection methods: </li>
     </ul>
   </li>
 
