@@ -58,6 +58,7 @@
       <li>An implementation of the Diffie-Hellman key exchange protocol: https://github.com/StavarLaurentiu/Diffie-Hellman</li>
       <li>An implementation of the ElGamal cryptosystem: https://github.com/StavarLaurentiu/ElGamal</li>
       <li>An implementation of the RSA cryptosystem: https://github.com/StavarLaurentiu/RSA</li>
+      <li>Machine learning project that focuses on training and evaluating various classification models on two distinct datasets: air pollution data for predicting AQI (Air Quality Index) levels and PIRvision data for motion detection, with implementations of data preprocessing techniques like SMOTE for handling class imbalance and feature selection methods: https://github.com/StavarLaurentiu/Machine-Learning-Classification-Pipeline-</li>
     </ul>
   </li>
   
@@ -74,7 +75,6 @@
   <li>MATLAB projects
     <ul style="list-style-type:square;">
       <li>House pricing predictor using linear, lasso and ridge regresion: https://github.com/StavarLaurentiu/HousePricingPredictor</li>
-        <li>Machine learning project that focuses on training and evaluating various classification models on two distinct datasets: air pollution data for predicting AQI (Air Quality Index) levels and PIRvision data for motion detection, with implementations of data preprocessing techniques like SMOTE for handling class imbalance and feature selection methods: </li>
     </ul>
   </li>
 
