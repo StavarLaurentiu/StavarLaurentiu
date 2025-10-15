@@ -59,6 +59,7 @@
       <li>An implementation of the ElGamal cryptosystem: https://github.com/StavarLaurentiu/ElGamal</li>
       <li>An implementation of the RSA cryptosystem: https://github.com/StavarLaurentiu/RSA</li>
       <li>Machine learning project that focuses on training and evaluating various classification models on two distinct datasets: air pollution data for predicting AQI (Air Quality Index) levels and PIRvision data for motion detection, with implementations of data preprocessing techniques like SMOTE for handling class imbalance and feature selection methods: https://github.com/StavarLaurentiu/Machine-Learning-Classification-Pipeline</li>
+      <li>An AI-powered Sokoban solver implementing multiple search algorithms (Simulated Annealing and LRTA\*) with various heuristic approaches: https://github.com/StavarLaurentiu/Sokoban-Agent</li>
     </ul>
   </li>
   
