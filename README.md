@@ -34,6 +34,13 @@
     </ul>
   <br>
   </li>
+
+  <li>Rust language projects
+    <ul style="list-style-type:square;">
+      <li>A singleplayer BlackJack game powered by a Raspberry Pi Pico 2 (RP2350A) and implemented in Rust using the Embassy async framework: https://github.com/StavarLaurentiu/BlackJack-Machine</li>
+    </ul>
+  <br>
+  </li>
   
   <li>Java language projects
     <ul style="list-style-type:square;">
